@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @TUstudents
 - 👀 I’m interested in ML
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I have a background in physics 
+- 💞️ I do a lot of chemometrics, spectroscopy and process analytical technology
 
 <!---
 TUstudents/TUstudents is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
